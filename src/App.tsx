@@ -1,19 +1,23 @@
-import { User, greetUser } from "@monorepo/shared"
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+// import { customAlert } from '../../../../../shared/front/lib/alert';
+import { greetUser,User } from '@monorepo/sharedfront';
+import { add } from '@monorepo/browser_pckg';
+import { useState } from 'react';
+import reactLogo from './assets/react.svg';
+import viteLogo from '/vite.svg';
+import './App.css';
 
 function App() {
   const [count, setCount] = useState(0);
 	const user: User = {
-		firstName: "Client",
-		lastName: "User",
-		email: "clientuser@test.com",
-		isAdmin: false,
-	};
+    firstName: "Client",
+    lastName: "User",
+    email: "clientuser@test.com",
+    isAdmin: false,
+    userName: 'clientuser'
+  };
 
 	const onGreetClicked = () => {
+   console.log(add(1, 1));
 		greetUser(user);
   }
   return (

@@ -1,0 +1,36 @@
+type: 'application'
+
+fileGroups:
+  app:
+    - 'pages/**/*'
+    - 'src/vite-env.d.ts'
+    - 'vite.config.*'
+  sources:
+    - 'src/**/*'
+    - 'public/**/*'
+    - 'types/**/*'
+tasks:
+  build:
+    command: 'vite'
+    inputs:
+      - '@group(app)'
+      - '@group(sources)'
+
+  export:
+    command: 'vite export -o ./build'
+    deps:
+      - 'build'
+    inputs:
+      - '@group(app)'
+      - '@group(sources)'
+    outputs:
+      - '.tsx'
+      - 'build'
+
+  dev:
+    command: 'vite'
+    local: true
+
+  start:
+    command: 'vite preview'
+    local: true
