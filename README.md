@@ -35,4 +35,8 @@ Pls add a branch with your full name. When you think you've finished your featur
 
 *If you have any questions, please let me know and do not hesitate to contact me.*
 
+From now on, I can only read your messages in Discord, and as an alternative option, I am about to do it by email.
+
+[Arman Riazi(Discord)](armanriyazi.github.io#5111)
+
 **Good Luck**
