@@ -1,4 +1,8 @@
-# Steps to join the project MFS-Clientside
+# 4 Steps to Join the Project MFS-Client Side
+
+**Notice** 
+Repositories are temporary on my Github. After we reach alpha targets, we are going to move projects to the new devops infrastructure.
+I made a monorepo of all of the repositories in all programming languages. You should pay attention to and be aware of configuration files in the root workspace.
 
 ## Agreement
 
@@ -20,6 +24,8 @@
 
 Pls open the project section on Github. I entered some sample data. You can put your iteration in, and after that, you will know:
 
+> [About-Milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/about-milestones)
+
 > At the first `Efficiency` and `Performance` is setted by you, but CTO after the iteration will review it again.
 
 `Efficiency` column or `Positive Prediction` means:
@@ -32,6 +38,9 @@ The `Performance` column or `Aggregated Result as a Kind of the Postdiction` mea
 
 ## Fork the repository
 Pls add a branch with your full name. When you think you've finished your feature or passed all of your unit tests, then you'd better send the command of the push request with the tag format of `name of the feature-letters of month (e.g., June)-no.iteration-no.order (e.g., 1 or 2...n)`
+
+## Leave your github account
+Leave your github account in the Discord public channel to add contributors to the repository, and AramisTech.Org.
 
 ## Contact
 
