@@ -1,4 +1,4 @@
-# 4 Steps to Join the Project MFS-Client Side
+# 5 Steps to Join the Project MFS-Client Side
 
 **Notice** 
 Repositories are temporary on my Github. After we reach alpha targets, we are going to move projects to the new devops infrastructure.
@@ -54,5 +54,9 @@ From now on, I can only read your messages in Discord, and as an alternative opt
 [Arman Riazi (Discord)](armanriyazi.github.io#5111)
 
 > *armanriyazi.github.io@gmail.com*
+
+---
+
+<< We made it with our ❤️ forever >>
 
 **Good Luck**
