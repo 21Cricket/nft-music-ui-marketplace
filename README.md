@@ -9,7 +9,7 @@
 `NFT-Music-UI`
 [Discord public channel](https://discordapp.com/channels/1119077618835259462/1119077928706244648)
 
-> After joining the group, I am going to send an invitation link for joining the private channel P2G. So, Pls do not forget to accept the invitation.
+> After joining the group, I am going to send an invitation link for joining the private channel P2G. So, Pls do not forget to accept the invitation. We are going to map up about project on Discord private channel. So, we do not speak about project in Github,Gist, or via email, so on.
 
 ## Check the project out 
 
