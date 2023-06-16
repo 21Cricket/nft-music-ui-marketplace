@@ -7,6 +7,7 @@ I made a monorepo of all of the repositories in all programming languages. You s
 ## Agreement
 
 - [x] I accepted to work with AramisTech in terms of the [manifest](https://aramis-tech.github.io/manifesto/manifesto_for_employment)
+- [x] I confirm to insert my image of my face on the website to introduce myself in the section `Overview of the Team.`
 
 ## Discord
 
@@ -43,6 +44,8 @@ Pls add a branch with your full name. When you think you've finished your featur
 Leave your github account in the Discord public channel to add contributors to the repository, and AramisTech.Org.
 
 ## Contact
+
+Pls send your image to the following email.
 
 *If you have any questions, please let me know and do not hesitate to contact me.*
 
